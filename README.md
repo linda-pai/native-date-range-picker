@@ -1,5 +1,5 @@
 
-https://github.com/linda-pai/native-date-range-picker/assets/66729413/5fe1764b-6453-435f-b7e4-3a4d0a0f5b8c
+https://github.com/linda-pai/native-date-range-picker/assets/66729413/655d13ec-94a5-4c97-8e59-c080d077747d
 
 
 # Getting Started with Create React App
